@@ -1,0 +1,96 @@
+#h1A{
+    background-color: yellowgreen;
+    width: 100px;
+    height: 100px;
+}
+#h1B{
+    background-color: violet;
+    width: 300px;
+    height: 300px;
+}
+#h1C{
+    background-color: blueviolet;
+    width: 500px;
+    height: 200px;
+}
+#h1a{
+    background-color: orangered;
+    
+}
+#h1b{
+    background-color: rgb(9, 255, 0);
+}
+#h1c{
+    background-color: rgb(255, 0, 174);
+}
+#ntrr{
+    width: 300px;
+    height: 300px;
+}
+#purri{
+    width: 300px;
+    height: 300px;
+}
+#baluu{
+    width: 300px;
+    height: 300px;
+}
+
+#ntr{
+    width: 300px;
+    border-radius: 25px;
+}
+#puri{
+    width: 300px;
+    border-radius: 25px;
+}
+#balu{
+    width: 300px;
+    border-radius: 25px;
+}
+#ntrHeading{
+    background-color: brown;
+    color: white;
+    width: 70px;
+}
+#puriHeading{
+    background-color: brown;
+    color: white;
+    width: 250px;
+}
+#baluHeading{
+    background-color: brown;
+    color: white;
+    width: 350px;
+}
+#ntrDesc{
+    display: inline-block;
+    width:650px;
+    height: 300px;
+    text-align: justify;
+}
+#puriDesc{
+    display: inline-block;
+    width:650px;
+    height: 200px;
+    text-align: justify;
+}
+#baluDesc{
+    display: inline-block;
+    width:700px;
+    height:200px ;
+    text-align: justify;
+}
+#mainHeading{
+    background-color: black;
+    color: azure;
+    text-align: center;
+    border-radius: 25px;
+    box-shadow: 10px 10px 10px gray;
+}
+#logoImage{
+    width: 1450px;
+    height: 200px;
+    border-radius: 25px;
+    box-shadow: 10px 10px 10px gray;
+}
